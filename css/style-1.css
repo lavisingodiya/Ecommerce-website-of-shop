@@ -102,7 +102,7 @@ section {
   left: 0;
   right: 0;
   z-index: 1000;
-  background: white;
+  background: rgb(96, 93, 234);
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
           box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   display: -webkit-box;
@@ -120,34 +120,34 @@ section {
 .header .logo {
   font-size: 2.5rem;
   font-weight: bolder;
-  color: #222;
+  color: rgb(253, 211, 1);
 }
 
 .header .logo i {
-  color: #bac34e;
+  color: black;
   padding-right: .5rem;
 }
 
 .header .navbar a {
   font-size: 1.7rem;
-  color: #f5da6e;
+  color: rgb(253, 211, 1);
   margin: 0 1rem;
   border-radius:1rem;
 }
 
 .header .navbar a:hover {
-  color: #bac34e;
+  color: rgb(4, 158, 235);
 }
 
 .header .icons div {
   font-size: 2.5rem;
   margin-left: 1.7rem;
   cursor: pointer;
-  color: #666;
+  color: black;
 }
 
 .header .icons div:hover {
-  color: #5788fa;
+  color: rgb(4, 158, 235);
 }
 
 .header .search-form {
